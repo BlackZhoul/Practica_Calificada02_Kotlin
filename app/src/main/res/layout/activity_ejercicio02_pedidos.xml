@@ -167,7 +167,7 @@
             android:scaleType="fitCenter"
             android:layout_height="match_parent" />
         <ImageButton
-            android:id="@+id/imbDial"
+            android:id="@+id/imbLocation"
             android:src="@drawable/ic_location"
             android:background="@null"
             android:layout_weight="1"
